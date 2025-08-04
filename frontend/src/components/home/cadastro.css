@@ -1,0 +1,71 @@
+form {
+    width: 450px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+input{
+    display: flex;
+    margin: 20px auto;
+    width: 450px;
+    height: 30px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border-width: 1px;
+}
+
+h3, .fa-user{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.fa-user-circle{
+    font-size: 50px;
+}
+
+a {
+    color: black;
+}
+
+.container5 {
+    position: relative;
+    top: 200px;
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    margin: 15px auto;
+    margin-left: 700px;
+    padding: 20px;
+    background-color:rgb(255, 255, 255);
+}
+
+
+.botao {
+    background-color: #ffffff;
+    color: #fff;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+button {
+    background-color: #8b8080;
+    color: #fff;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+button:hover {
+    background-color: #4f4f4f;
+} 

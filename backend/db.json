@@ -1,0 +1,28 @@
+{
+  "cadastro": [
+    {
+      "nome": "João Silva",
+      "email": "joao@gmail.com",
+      "senha": "1457",
+      "id": "d98c"
+    },
+    {
+      "nome": "Mario Torres",
+      "email": "Torres@gmail.com",
+      "senha": "1245",
+      "id": "1e84"
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "usuario": "João Silva",
+      "senha": "1457"
+    },
+    {
+      "id": "2",
+      "usuario": "Mario Torres",
+      "senha": "1245"
+    }
+  ]
+}

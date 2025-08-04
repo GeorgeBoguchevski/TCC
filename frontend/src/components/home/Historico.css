@@ -1,0 +1,92 @@
+.textoH{
+    position: absolute;
+    display: flex;
+    text-align: center;
+    padding-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150px;
+    color: hsl(0, 0%, 0%);
+    top: 0px;
+    margin-left: 700px;
+    font-size: 50px;
+}
+
+.qua3 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    height: 690px;
+    width: 1450px;
+    margin-left: 200px;
+    min-width: 100px;
+    position: absolute;
+    left: 130px;
+    top: 30px;
+    border: 1px solid black;
+    display: flex;
+    box-shadow: 0 4px 12px 4px rgba(154, 154, 154, 0.2);
+}
+
+.tab {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    height: 690px;
+    width: 300px;
+    min-width: 100px;
+    position: relative;
+    left: 0px;
+    top: -50px;
+    border: 1px solid black;
+}
+.tab2 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    height: 690px;
+    width: 300px;
+    min-width: 100px;
+    left: 0px;
+    position: relative;
+    top: -50px;
+    border: 1px solid black;
+}
+.tab3 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    height: 690px;
+    width: 300px;
+    min-width: 100px;
+    left: 0px;
+    position: relative;
+    top: -50px;
+    border: 1px solid black;
+}
+.tab4 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    height: 690px;
+    width: 300px;
+    min-width: 100px;
+    left: 0px;
+    position: relative;
+    top: -50px;
+    border: 1px solid black;
+}
+.tab5 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    height: 690px;
+    width: 250px;
+    min-width: 100px;
+    left: 0px;
+    position: relative;
+    top: -50px;
+    border: 1px solid black;
+}
+h2 {
+    text-align: center;
+}

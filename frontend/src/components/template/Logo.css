@@ -1,0 +1,21 @@
+aside.logo {
+    background-color: rgb(34, 42, 44);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(44, 44, 44);
+}
+
+aside.logo img {
+    height: 100%;
+    width: 250px;
+    max-height: var(--logo-height);
+    object-fit: contain;
+    padding: 0 15px;
+}
+
+@media (max-width: 576px) {
+    aside.logo img {
+        width: 200px;
+    }
+}

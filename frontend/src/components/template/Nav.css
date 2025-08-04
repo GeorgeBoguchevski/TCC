@@ -1,0 +1,25 @@
+aside.menu-area{
+    background-color:rgb(44, 44, 44);
+    width: 225px;
+}
+
+.menu a{
+    font-size: 20px;
+    display: block;
+    text-decoration: none;
+    color: #FFF;
+    font-weight: 300;
+    padding:  15px;
+}
+
+.menu a:hover{
+    border-bottom:#ffffff solid 1px;
+}
+
+@media(max-width: 768px){
+    .menu{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+}
